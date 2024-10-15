@@ -2,7 +2,7 @@ import telebot
 import os
 from random import choice
 
-API_TOKEN = '8056447024:AAEehoWZKIvZ05pfPw1dEzqGU44gaC2JD3g'
+API_TOKEN = 'ВАШ ТОКЕН'
 
 bot = telebot.TeleBot(API_TOKEN)
 
